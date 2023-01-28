@@ -35,7 +35,7 @@ class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
+        return "\nPerson{" +
                 "name='" + name + '\'' +
                 ", family='" + family + '\'' +
                 ", age=" + age +
